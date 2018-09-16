@@ -5,7 +5,7 @@ In this project you will find the following:
 - Add Credit Card functionality on clicking plus in the Credit card column. A pop up will appear for entering the details.
 - Display of products in cart
 
-#Commands to run the App
+Commands to run the App
 Once the app is cloned/downloaded run the commands below
 ## npm install 
 ## npm start
