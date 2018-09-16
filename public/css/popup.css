@@ -1,0 +1,15 @@
+  .popup_close{
+    top: 0;
+    float: right;
+    width: 15px;
+    height: 15px;
+    padding: 5px 5px;
+    object-fit: contain;
+  }
+  .popup_close img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .popup-content{
+    width: auto !important;
+  }

@@ -1,0 +1,20 @@
+{
+    "creditCard" : [
+        {
+            "cardType" : "Visa",
+            "cardNumber" : "12348379242"
+        },
+        {
+            "cardType" : "MasterCard",
+            "cardNumber" : "356324567777773"
+        },
+        {
+            "cardType" : "Amex",
+            "cardNumber" : "0877887334550"
+        },
+        {
+            "cardType" : "MasterCard",
+            "cardNumber" : "782994999666666"
+        }
+    ]
+}

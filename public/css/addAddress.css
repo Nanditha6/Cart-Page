@@ -1,0 +1,68 @@
+.field{
+    height: 41px;
+    width: 100%;
+    font-size: 15px;
+    font-family: 'Gotham 4r';
+    font-weight: normal;
+    font-style: normal;
+    color: #454545;
+    letter-spacing: 0.2px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+.addressLabel{
+    font-size: 15px;
+    font-weight: normal;
+    color: #454545;
+    letter-spacing: -0.2px;
+    padding: 15px 0 9px;
+    font-family: 'Gotham 4r';
+}
+.fleft{
+    float: left;
+}
+.add_box_half_width{
+    width: 50%;
+}
+.add_box_full_width{
+    width: 100%;
+}
+.container{
+    width: 700px;
+    height: auto;
+    padding: 25px;
+}
+.action_button{
+    width: 203px;
+    height: 40px;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 1px;
+    font-family: 'Gotham 5r';
+    text-align: center;
+}
+.save_button{
+    background: #388540;
+    color: #fff;
+}
+.address_name{
+    font-family: 'Gotham 7r';
+    color: #222;
+    font-weight: normal;
+}
+.address_box{
+    width: 200px;
+    height: 165px;
+    border: 1px solid #000;
+    font-size: 13px;
+    font-family: 'Gotham 4r';
+    padding: 10px 10px 0 15px;
+}
+.add_button{
+    font-size: 100px;
+    text-align: center;
+    cursor: pointer;
+}
+.clear{
+    clear: both;
+}

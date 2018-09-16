@@ -1,0 +1,40 @@
+{
+    "shipAddress":[
+        {
+            "firstName" : "Proeftekst uit het",
+            "lastName" : "elkaar husseld",
+            "address":"Hier uw tekst, hier tekst",
+            "address2":"maar is ook, vrijwel onveranderd",
+            "city":"New York",
+            "state":"NY",
+            "zipcode":"10001"
+        },
+        {
+            "firstName" : "Proeftekst uit het",
+            "lastName" : "elkaar husseld",
+            "address":"Hier uw tekst, hier tekst",
+            "address2":"maar is ook, vrijwel onveranderd",
+            "city":"New York",
+            "state":"NY",
+            "zipcode":"10001"
+        },
+        {
+            "firstName" : "Proeftekst uit het",
+            "lastName" : "elkaar husseld",
+            "address":"Hier uw tekst, hier tekst",
+            "address2":"maar is ook, vrijwel onveranderd",
+            "city":"New York",
+            "state":"NY",
+            "zipcode":"10001"
+        },
+        {
+            "firstName" : "Proeftekst uit het",
+            "lastName" : "elkaar husseld",
+            "address":"Hier uw tekst, hier tekst",
+            "address2":"maar is ook, vrijwel onveranderd",
+            "city":"New York",
+            "state":"NY",
+            "zipcode":"10001"
+        }
+    ]
+}
